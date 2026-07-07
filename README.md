@@ -49,11 +49,15 @@ me.say_hi()
 
 ## 🚀 What I'm Up To
 
+<div align="center">
+
 | 🔭 Working on | Building a better version of me |
 |---|---|
 | 🌱 Learning | Backend development, data wrangling, and exploring AI |
 | 💬 Ask me about | Python, data analysis, or literally anything you're curious about |
 | ⚡ Fun fact | I understand things better when I break them first |
+
+</div>
 
 ---
 
