@@ -22,7 +22,7 @@ class AdityaDevJoshi:
     def say_hi(self):
         print("Thanks for stopping by! Let's build something great.")
 
-me = AadityaDevJoshi()
+me = AdityaDevJoshi()
 me.say_hi()
 ```
 
